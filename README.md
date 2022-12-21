@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sathish Sk</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
- <em>
+ <h3>
     I am graduated in B.SC COMPUTER SCIENCE from <a href="https://www.tvu.edu.in/"> <b>THIRUVALLUVAR UNIVERSITY</b>, Vellore</a>.  
     A budding <b>Programmer</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Developer.gif" width="30px"> and a <b>Tech   Enthusiast,</b>&nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Rocket.gif" width="18px">and
     <b>excel.</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Medal.gif" width="20px">
- </em>    
+ </h3>    
 
 <h2>Tools i use</h2>
 

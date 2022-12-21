@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <em>
-    I am graduated in B.SC COMPUTER SCIENCE from <a href=""> <b>THIRUVALLUVAR UNIVERSITY</b>, Vellore</a>.  
+    I am graduated in B.SC COMPUTER SCIENCE from <a href="https://www.tvu.edu.in/"> <b>THIRUVALLUVAR UNIVERSITY</b>, Vellore</a>.  
     A budding <b>Programmer</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Developer.gif" width="30px"> and a <b>Tech   Enthusiast,</b>&nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Rocket.gif" width="18px">and

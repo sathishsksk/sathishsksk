@@ -9,7 +9,7 @@
     <b>excel.</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Medal.gif" width="20px">
  </h4>    
 
-![href="https://github.com/sathishsksk">GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<h2><a href="https://github.com/sathishsksk"> My Profile</h2> 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)Profile <a href="https://github.com/sathishsksk"> @sathishsksk
 
 <h2>Tools i use</h2>
 
